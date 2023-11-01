@@ -11,10 +11,13 @@ package ejemplo01;
  */
 public class Ejemplo04 {
     public static void main(String[] args) {
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
-        int nacimiento = 1983;
-        System.out.print(nombreEstudiante + " ");
+        /* println sirve para darle un espacio y
+        como que bajar una linea
+        */
+        String nombreEstudiante = "María Valentina";
+        String apellidoEstudiante = "Samaniego Vásquez";
+        int nacimiento = 2005;
+        System.out.println(nombreEstudiante + " ");
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
